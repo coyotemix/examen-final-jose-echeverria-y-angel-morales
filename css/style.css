@@ -1,0 +1,17 @@
+h1{
+	text-align: center;
+	color: red;
+	font-size: 4em;
+}
+h2{
+	text-align: left;
+	color: blue;
+	font-size: 3.5em;
+
+#galeria 
+{
+text-align: center;
+}
+img {
+	max-width: 100%;
+}
